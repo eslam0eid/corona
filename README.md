@@ -1,2 +1,1 @@
-# corona
-corona virous api
+# CoronaVirus
